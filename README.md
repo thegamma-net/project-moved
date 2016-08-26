@@ -1,2 +1,1 @@
-# project-moved
-The project has moved.
+# See [github.com/the-gamma](http://github.com/the-gamma) instead!
